@@ -3,7 +3,7 @@
 ## Отримування коримстувачів
 
 <p align="left">
-    <img src="./images/1.jpg">
+    <img src="docs/images/1.jpg">
 </p>
 
 ## Створення нового користувача
